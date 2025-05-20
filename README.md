@@ -37,5 +37,5 @@ This project is a full-stack web application that implements a **Signup** and **
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AdityaKoshta/fullstack-login-signup.git
+
